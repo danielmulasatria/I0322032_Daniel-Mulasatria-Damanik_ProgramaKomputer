@@ -1,4 +1,3 @@
-
 print("Daniel Mulasatria Damanik")
 print("I0322032\n")
 
